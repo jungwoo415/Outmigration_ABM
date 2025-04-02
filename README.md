@@ -1,5 +1,5 @@
 # Outmigration_ABM
-This repository contains the full manuscript (including appendices) and source code for the submitted paper : 
+This repository contains the full manuscript (including appendices) and source code for the submitted paper for Winter Simulation Conference 2025: 
 
 **Agent-Based Model of Dynamics Between Objective and Perceived Quality of Healthcare System**
 
